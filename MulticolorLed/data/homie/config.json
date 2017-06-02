@@ -1,0 +1,20 @@
+{
+  "name": "multicolorLed",
+  "device_id": "multicolorLed",
+  "wifi": {
+    "ssid": "@EXP",
+    "password": "HXpPLA3M"
+  },
+  "mqtt": {
+    "host": "172.16.1.59",
+    "port": 1883,
+    "base_topic": "homie/",
+    "auth": false
+  },
+  "ota": {
+    "enabled": false
+  },
+  "settings": {
+    "percentage": 60
+  }
+}

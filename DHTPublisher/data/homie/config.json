@@ -1,0 +1,20 @@
+{
+  "name": "HumidityAndTemp",
+  "device_id": "dhthing",
+  "wifi": {
+    "ssid": "@_EXPERIMENTALITY",
+    "password": "CK429Pi8A"
+  },
+  "mqtt": {
+    "host": "172.16.1.59",
+    "port": 1883,
+    "base_topic": "homie/",
+    "auth": false
+  },
+  "ota": {
+    "enabled": false
+  },
+  "settings": {
+    "percentage": 60
+  }
+}

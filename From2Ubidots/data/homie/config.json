@@ -1,0 +1,22 @@
+{
+  "name": "device1",
+  "device_id": "device1",
+  "wifi": {
+    "ssid": "@_EXPERIMENTALITY",
+    "password": "CK429Pi8A"
+  },
+  "mqtt": {
+    "host": "things.ubidots.com",
+    "port": 1883,
+    "base_topic": "/v1.6/devices/",
+    "auth": true,
+    "username": "sSNQQRvjvvao69VSuDfymL73XiCvcL",
+    "password": ""
+  },
+  "ota": {
+    "enabled": false
+  },
+  "settings": {
+    "percentage": 60
+  }
+}

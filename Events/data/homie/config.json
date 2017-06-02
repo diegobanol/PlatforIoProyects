@@ -1,0 +1,20 @@
+{
+  "name": "Door System",
+  "device_id": "door-system1",
+  "wifi": {
+    "ssid": "@_EXPERIMENTALITY",
+    "password": "CK429Pi8A"
+  },
+  "mqtt": {
+    "host": "172.16.1.210",
+    "port": 1883,
+    "base_topic": "homie/",
+    "auth": false
+  },
+  "ota": {
+    "enabled": false
+  },
+  "settings": {
+    "percentage": 60
+  }
+}
